@@ -1,0 +1,10 @@
+props for event handling always start with on in Reacts.For event handling we have to use props.
+onClick,onChange,etc...
+
+useState
+to change ui re-painting to use the concept of state.useState is react hook which is utility function.
+If you have the data thst is might change further in the ui so we have to use useState hook.
+useState is per component instance basis.
+
+parent to child props.child
+child to parents lifting up concept
